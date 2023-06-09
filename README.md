@@ -112,24 +112,17 @@ void loop()
 
 OUTPUT:
 Before Simulation:
-![3 1](https://github.com/ArunJ03/Experiment-3/assets/131673036/4ac21ba8-244c-45ee-b4d9-1ec7ef42e7e3)
+![image](https://github.com/Balaramansethu/Experiment-03-/assets/96691241/6ed8bdad-98c2-44c3-b374-8d4959f209e0)
+
 
 After Simulation:
 
  
- ![3 2](https://github.com/ArunJ03/Experiment-3/assets/131673036/31f7fd46-0515-4efb-bbb9-aa57309e746e)
+![image](https://github.com/Balaramansethu/Experiment-03-/assets/96691241/38b52067-3c78-41a5-9191-ee30abdab9bf)
+ 
+ 
+ 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
 
 
